@@ -91,7 +91,7 @@ Azure Database for MySQL:
 
 •	Implementation of robust security measures to safeguard sensitive user information and maintain data integrity.
 
-•	 ![db](https://github.com/Ninad0712/Bharatiya-Bhasha-Anuvadak/blob/master/templates/db.png)
+•	 ![db](https://github.com/Ninad0712/Bharatiya-Bhasha-Anuvadak/assets/76398776/7ddc60cf-bb57-4c0c-a438-345cfc4fb8d2)
 
 Azure Virtual Network:
 
@@ -107,13 +107,14 @@ Azure DNS Zone:
 
 •	Implementation of DNS configurations for seamless domain resolution and a user-friendly browsing experience.
 
-•	 ![dns](https://github.com/Ninad0712/Bharatiya-Bhasha-Anuvadak/blob/master/templates/dns.png)
+•	 ![dns](https://github.com/Ninad0712/Bharatiya-Bhasha-Anuvadak/assets/76398776/1f9a599a-d387-46d1-8b66-f3a61c4bbab6)
 
 Azure Storage Service:
 
 •	Utilization of Azure Storage Service to fetch background images for the frontend webpages, enhancing the visual appeal of the translation service.
 
-•	 ![ass](https://github.com/Ninad0712/Bharatiya-Bhasha-Anuvadak/blob/master/templates/ass.png)
+•	 ![ass](https://github.com/Ninad0712/Bharatiya-Bhasha-Anuvadak/assets/76398776/f3c90ba3-3edb-4ef2-b874-de0a8953abc1)
+
 
 Azure Load Balancer:
 
@@ -125,7 +126,7 @@ Azure DevOps (Azure Repos):
 
 •	Azure DevOps with Azure Repos provides a comprehensive platform for version control, build automation, release management, and collaboration in software development projects, facilitating end-to-end DevOps processes.
 
-•	 ![azrepos](https://github.com/Ninad0712/Bharatiya-Bhasha-Anuvadak/blob/master/templates/azrepos.png)
+•	 ![azrepos](https://github.com/Ninad0712/Bharatiya-Bhasha-Anuvadak/assets/76398776/8a863ce9-5ac1-4d1a-ac8f-619010dfa42f)
 
 User-Friendly Interface:
 
@@ -149,11 +150,11 @@ Result page
 
 Admin login page
 
-![adminlogin](https://github.com/Ninad0712/Bharatiya-Bhasha-Anuvadak/blob/master/templates/adminlogin.png)
+![adminlogin](https://github.com/Ninad0712/Bharatiya-Bhasha-Anuvadak/assets/76398776/a4d8bf41-da57-40cc-adf5-de9f23cb4281)
 
 Admin dashboard for search history page
 
-![admindashboard](https://github.com/Ninad0712/Bharatiya-Bhasha-Anuvadak/blob/master/templates/admindashboard.png)
+![admindashboard](https://github.com/Ninad0712/Bharatiya-Bhasha-Anuvadak/assets/76398776/ab44252d-ac64-4270-8b3f-95e130a99bb4)
 
 Resource Visualizer
  

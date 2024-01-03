@@ -18,6 +18,10 @@ Github Repository URL:
 
 https://github.com/Ninad0712/Bharatiya-Bhasha-Anuvadak.git
 
+Project Documentation URL:
+
+https://drive.google.com/file/d/1InjC9wmQfyeYZ6TCfcRL1qZxpbT4btL5/view?usp=sharing
+
 Industry Type: Lifestyle
 
 Azure Services Used

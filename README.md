@@ -76,14 +76,14 @@ Azure AI Translation Service:
 
 •	Integration of the translation service seamlessly into the web application, ensuring real-time and contextually relevant translations.
 
-•	 ![translatorapi](https://github.com/Ninad0712/Bharatiya-Bhasha-Anuvadak/blob/master/templates/translatorapi.png)
+•	 ![translatorapi](https://github.com/Ninad0712/Bharatiya-Bhasha-Anuvadak/assets/76398776/cabf1c1b-3b27-4a4c-a8a6-817132f0fc4c)
 
 
 Azure Virtual Machine Hosting:
 
 •	Deployment of the translation service on an Azure Virtual Machine within a public subnet, allowing for easy accessibility and interaction with users.
 
-•	 ![vm](https://github.com/Ninad0712/Bharatiya-Bhasha-Anuvadak/blob/master/templates/vm.png)
+•	 ![vm](https://github.com/Ninad0712/Bharatiya-Bhasha-Anuvadak/assets/76398776/4f4ef38e-8252-42f1-abea-bceca96daf07)
 
 Azure Database for MySQL:
 
@@ -99,7 +99,7 @@ Azure Virtual Network:
 
 •	Deployment of the virtual machine in a public subnet for direct user access and the database in a private subnet for enhanced security.
 
-•	 ![vnet](https://github.com/Ninad0712/Bharatiya-Bhasha-Anuvadak/blob/master/templates/vnet.png)
+•	 ![vnet](https://github.com/Ninad0712/Bharatiya-Bhasha-Anuvadak/assets/76398776/b9072e5c-f14a-48ea-9d6d-b6d3f6f239ae)
 
 Azure DNS Zone:
 
@@ -120,7 +120,7 @@ Azure Load Balancer:
 
 •	Implementation of Azure Load Balancers for effective distribution of incoming traffic.
 
-•	 ![loadbalancer](https://github.com/Ninad0712/Bharatiya-Bhasha-Anuvadak/blob/master/templates/loadbalancer.png)
+•	 ![loadbalancer](https://github.com/Ninad0712/Bharatiya-Bhasha-Anuvadak/assets/76398776/5ff70d44-7e17-498a-b903-78e65c22d898)
 
 Azure DevOps (Azure Repos):
 
@@ -142,11 +142,11 @@ Working Live Project Display
 
 Main page
 
-![main](https://github.com/Ninad0712/Bharatiya-Bhasha-Anuvadak/blob/master/templates/mainnew2.png)
+![mainnew2](https://github.com/Ninad0712/Bharatiya-Bhasha-Anuvadak/assets/76398776/9273d1b6-1cb5-4630-91c1-890a50dd1a23)
 
 Result page
 
-![result](https://github.com/Ninad0712/Bharatiya-Bhasha-Anuvadak/blob/master/templates/result.png)
+![result](https://github.com/Ninad0712/Bharatiya-Bhasha-Anuvadak/assets/76398776/5ccc766c-cc71-4105-b43a-ccad0bff40ce)
 
 Admin login page
 

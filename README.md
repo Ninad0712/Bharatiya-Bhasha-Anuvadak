@@ -158,7 +158,8 @@ Admin dashboard for search history page
 
 Resource Visualizer
  
-![rv](https://github.com/Ninad0712/Bharatiya-Bhasha-Anuvadak/blob/master/templates/rv.png)
+![rv](https://github.com/Ninad0712/Bharatiya-Bhasha-Anuvadak/assets/76398776/69738f5a-edc9-4585-b56a-7f45f8d6fe89)
+
 
 Final Project Statement
 

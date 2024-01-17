@@ -2,7 +2,7 @@
 
 Project Title
 
-Indian Language Translator
+Bharatiya Bhasha Anuvadak - Indian Language Translator
 
 Project Details
 
@@ -98,7 +98,6 @@ Azure Database for MySQL:
 
 •	 ![db](https://github.com/Ninad0712/Bharatiya-Bhasha-Anuvadak/assets/76398776/7ddc60cf-bb57-4c0c-a438-345cfc4fb8d2)
 
-•	Admin Login Username : admin   /  Password : Test@123
 
 
 Azure Virtual Network:
@@ -160,6 +159,7 @@ Admin login page
 
 ![adminlogin](https://github.com/Ninad0712/Bharatiya-Bhasha-Anuvadak/assets/76398776/a4d8bf41-da57-40cc-adf5-de9f23cb4281)
 •	Admin Login Username : admin   /  Password : Test@123
+Note - Please have patience while checking the records through admin dashboard as it might take some time to reflect the changes made to the database. If the changes are not getting reflected, please logout and login again / delete website cache-cookies and try login again into admin account.
 
 Admin dashboard for search history page
 

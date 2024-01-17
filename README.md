@@ -2,7 +2,7 @@
 
 Project Title
 
-भारतीय भाषा अनुवादक (Indian Language Translator)
+Indian Language Translator
 
 Project Details
 

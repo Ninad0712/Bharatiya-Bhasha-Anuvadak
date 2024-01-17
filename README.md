@@ -98,6 +98,9 @@ Azure Database for MySQL:
 
 •	 ![db](https://github.com/Ninad0712/Bharatiya-Bhasha-Anuvadak/assets/76398776/7ddc60cf-bb57-4c0c-a438-345cfc4fb8d2)
 
+•	Admin Login Username : admin   /  Password : Test@123
+
+
 Azure Virtual Network:
 
 •	Creation of an Azure Virtual Network to facilitate secure communication between the Azure Virtual Machine and Azure Database for MySQL.
@@ -156,6 +159,7 @@ Result page
 Admin login page
 
 ![adminlogin](https://github.com/Ninad0712/Bharatiya-Bhasha-Anuvadak/assets/76398776/a4d8bf41-da57-40cc-adf5-de9f23cb4281)
+•	Admin Login Username : admin   /  Password : Test@123
 
 Admin dashboard for search history page
 
